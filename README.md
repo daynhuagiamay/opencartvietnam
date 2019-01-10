@@ -1,2 +1,2 @@
 # opencartvietnam
-Opencart Việt Nam trên Github
+Opencart Việt Nam
